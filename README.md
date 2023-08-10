@@ -4,10 +4,8 @@ This is a simple app with a list of Indoor plants that a user can favourite and 
 Favourited items are displayed on a separate page.
 
 <p align="center">
-<br>
 <img src="https://github.com/Venoli/Fav/blob/main/Screenshots/1.png" width="200" height="350"/>
 <img src="https://github.com/Venoli/Fav/blob/main/Screenshots/2.png" width="200" height="350" />
- <br>
 </p>
 
 ## :fire: Features
