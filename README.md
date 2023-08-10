@@ -20,6 +20,11 @@ Clone the repository
 ```python
 git clone https://github.com/Venoli/Fav.git
 ```
+Change the directory 
+
+```python
+cd Fav
+```
 
 Install node modules
 
